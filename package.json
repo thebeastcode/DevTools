@@ -1,0 +1,11 @@
+{
+  "name": "devtools",
+  "version": "1.0.0",
+  "description": "Es una pequeña app para mostrar la devtools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NayosX Ness",
+  "license": "GPL"
+}
